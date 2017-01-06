@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SeritaProjectTest.iml" filepath="$PROJECT_DIR$/SeritaProjectTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Test2Activity.iml" filepath="$PROJECT_DIR$/Test2Activity.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gclibrary/gclibrary.iml" filepath="$PROJECT_DIR$/gclibrary/gclibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/gclibrary/gclibrary.iml" filepath="$PROJECT_DIR$/gclibrary/gclibrary.iml" />
     </modules>
   </component>

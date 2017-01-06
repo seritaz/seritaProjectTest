@@ -2,6 +2,8 @@ package com.serita.test2activity.activity;
 
 import android.widget.TextView;
 
+import com.serita.gclibrary.utils.L;
+import com.serita.gclibrary.utils.T;
 import com.serita.test2activity.R;
 
 /**
@@ -29,6 +31,8 @@ public class TestActivity extends BaseActivity {
     private void onClick(){
 //        tv.setText("结果:"+Jni.patch("1","2","3"));
         tv.setText("结果:");
+        L.i("结果:");
+        T.showShort(this,"结果:");
 
     }
 }
